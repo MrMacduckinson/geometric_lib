@@ -185,3 +185,36 @@ python3 -c "from triangle import perimeter; print(perimeter(2, 2, 9.5))"
 ```
 13.5
 ```
+
+# Changelog
+```
+commit 5550794de37653565e5d69e20623160b81f445d8 (HEAD -> new_features_466295)
+Author: Mikhail Korsakov <mihasik.korsakov@gmail.com>
+Date:   Wed Sep 25 22:56:17 2024 +0300
+
+    added documentation to README.md
+
+commit e54ba7fcc42589981cb4f58d3f79fe462fdf0f98
+Author: Mikhail Korsakov <mihasik.korsakov@gmail.com>
+Date:   Wed Sep 25 21:31:07 2024 +0300
+
+    added descriptions for all functions
+
+commit 6c15c7fe48369c9d84b7ccd361acf3da4d9635f8
+Author: Mikhail Korsakov <mihasik.korsakov@gmail.com>
+Date:   Wed Sep 25 14:51:36 2024 +0300
+
+    restored the state of labwork_1
+
+commit d078c8d9ee6155f3cb0e577d28d337b791de28e2 (origin/main, origin/HEAD, main)
+Author: smartiqa <info@smartiqa.ru>
+Date:   Thu Mar 4 14:55:29 2021 +0300
+
+    L-03: Docs added
+
+commit 8ba9aeb3cea847b63a91ac378a2a6db758682460
+Author: smartiqa <info@smartiqa.ru>
+Date:   Thu Mar 4 14:54:08 2021 +0300
+
+    L-03: Circle and square added
+```
